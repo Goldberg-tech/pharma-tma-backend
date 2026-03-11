@@ -1,0 +1,120 @@
+[
+  { "name": "Нурофен",         "active": "Ибупрофен",       "form": "таблетки",    "manufacturer": "Reckitt" },
+  { "name": "Ибупрофен",       "active": "Ибупрофен",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "МИГ 400",         "active": "Ибупрофен",       "form": "таблетки",    "manufacturer": "Berlin-Chemie" },
+  { "name": "Фаспик",          "active": "Ибупрофен",       "form": "гранулы",     "manufacturer": "Словакофарма" },
+  { "name": "Бруфен",          "active": "Ибупрофен",       "form": "таблетки",    "manufacturer": "Abbott" },
+  { "name": "Адвил",           "active": "Ибупрофен",       "form": "таблетки",    "manufacturer": "Pfizer" },
+  { "name": "Ибуклин",         "active": "Ибупрофен+Парацетамол", "form": "таблетки", "manufacturer": "Dr. Reddy's" },
+
+  { "name": "Парацетамол",     "active": "Парацетамол",     "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Панадол",         "active": "Парацетамол",     "form": "таблетки",    "manufacturer": "GSK" },
+  { "name": "Эффералган",      "active": "Парацетамол",     "form": "шипучие",     "manufacturer": "UPSA" },
+  { "name": "Цефекон Д",       "active": "Парацетамол",     "form": "свечи",       "manufacturer": "Нижфарм" },
+  { "name": "Калпол",          "active": "Парацетамол",     "form": "суспензия",   "manufacturer": "GSK" },
+  { "name": "Тайленол",        "active": "Парацетамол",     "form": "таблетки",    "manufacturer": "J&J" },
+
+  { "name": "Аспирин",         "active": "Ацетилсалициловая кислота", "form": "таблетки", "manufacturer": "Bayer" },
+  { "name": "Ацетилсалициловая кислота", "active": "Ацетилсалициловая кислота", "form": "таблетки", "manufacturer": "Различные" },
+  { "name": "Тромбо АСС",      "active": "Ацетилсалициловая кислота", "form": "таблетки", "manufacturer": "Lannacher" },
+  { "name": "Кардиомагнил",    "active": "Ацетилсалициловая кислота", "form": "таблетки", "manufacturer": "Takeda" },
+
+  { "name": "Амоксициллин",    "active": "Амоксициллин",    "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Флемоксин",       "active": "Амоксициллин",    "form": "таблетки",    "manufacturer": "Astellas" },
+  { "name": "Хиконцил",        "active": "Амоксициллин",    "form": "капсулы",     "manufacturer": "KRKA" },
+  { "name": "Оспамокс",        "active": "Амоксициллин",    "form": "таблетки",    "manufacturer": "Sandoz" },
+
+  { "name": "Аугментин",       "active": "Амоксициллин+Клавулановая кислота", "form": "таблетки", "manufacturer": "GSK" },
+  { "name": "Амоксиклав",      "active": "Амоксициллин+Клавулановая кислота", "form": "таблетки", "manufacturer": "Sandoz" },
+  { "name": "Панклав",         "active": "Амоксициллин+Клавулановая кислота", "form": "таблетки", "manufacturer": "Различные" },
+  { "name": "Флемоклав",       "active": "Амоксициллин+Клавулановая кислота", "form": "таблетки", "manufacturer": "Astellas" },
+
+  { "name": "Азитромицин",     "active": "Азитромицин",     "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Сумамед",         "active": "Азитромицин",     "form": "таблетки",    "manufacturer": "Pliva" },
+  { "name": "Зитролид",        "active": "Азитромицин",     "form": "капсулы",     "manufacturer": "Мастерлек" },
+  { "name": "Азимед",          "active": "Азитромицин",     "form": "таблетки",    "manufacturer": "World Medicine" },
+  { "name": "Хемомицин",       "active": "Азитромицин",     "form": "таблетки",    "manufacturer": "Hemofarm" },
+
+  { "name": "Лоратадин",       "active": "Лоратадин",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Кларитин",        "active": "Лоратадин",       "form": "таблетки",    "manufacturer": "Bayer" },
+  { "name": "ЛораГексал",      "active": "Лоратадин",       "form": "таблетки",    "manufacturer": "Hexal" },
+  { "name": "Эролин",          "active": "Лоратадин",       "form": "таблетки",    "manufacturer": "KRKA" },
+
+  { "name": "Цетиризин",       "active": "Цетиризин",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Зиртек",          "active": "Цетиризин",       "form": "таблетки",    "manufacturer": "UCB" },
+  { "name": "Зодак",           "active": "Цетиризин",       "form": "таблетки",    "manufacturer": "Zentiva" },
+  { "name": "Летизен",         "active": "Цетиризин",       "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Цетрин",          "active": "Цетиризин",       "form": "таблетки",    "manufacturer": "Dr. Reddy's" },
+
+  { "name": "Омепразол",       "active": "Омепразол",       "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Омез",            "active": "Омепразол",       "form": "капсулы",     "manufacturer": "Dr. Reddy's" },
+  { "name": "Лосек",           "active": "Омепразол",       "form": "капсулы",     "manufacturer": "AstraZeneca" },
+  { "name": "Гастрозол",       "active": "Омепразол",       "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Ортанол",         "active": "Омепразол",       "form": "капсулы",     "manufacturer": "KRKA" },
+
+  { "name": "Пантопразол",     "active": "Пантопразол",     "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Нольпаза",        "active": "Пантопразол",     "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Контролок",       "active": "Пантопразол",     "form": "таблетки",    "manufacturer": "Takeda" },
+  { "name": "Ульсепан",        "active": "Пантопразол",     "form": "таблетки",    "manufacturer": "Различные" },
+
+  { "name": "Метформин",       "active": "Метформин",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Глюкофаж",        "active": "Метформин",       "form": "таблетки",    "manufacturer": "Merck" },
+  { "name": "Сиофор",          "active": "Метформин",       "form": "таблетки",    "manufacturer": "Berlin-Chemie" },
+  { "name": "Форметин",        "active": "Метформин",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Багомет",         "active": "Метформин",       "form": "таблетки",    "manufacturer": "Различные" },
+
+  { "name": "Эналаприл",       "active": "Эналаприл",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Энап",            "active": "Эналаприл",       "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Ренитек",         "active": "Эналаприл",       "form": "таблетки",    "manufacturer": "MSD" },
+  { "name": "Берлиприл",       "active": "Эналаприл",       "form": "таблетки",    "manufacturer": "Berlin-Chemie" },
+
+  { "name": "Лизиноприл",      "active": "Лизиноприл",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Диротон",         "active": "Лизиноприл",      "form": "таблетки",    "manufacturer": "Gedeon Richter" },
+  { "name": "Лизорил",         "active": "Лизиноприл",      "form": "таблетки",    "manufacturer": "Ipca" },
+  { "name": "Принивил",        "active": "Лизиноприл",      "form": "таблетки",    "manufacturer": "MSD" },
+
+  { "name": "Симвастатин",     "active": "Симвастатин",     "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Зокор",           "active": "Симвастатин",     "form": "таблетки",    "manufacturer": "MSD" },
+  { "name": "Вазилип",         "active": "Симвастатин",     "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Симгал",          "active": "Симвастатин",     "form": "таблетки",    "manufacturer": "Teva" },
+
+  { "name": "Аторвастатин",    "active": "Аторвастатин",    "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Липримар",        "active": "Аторвастатин",    "form": "таблетки",    "manufacturer": "Pfizer" },
+  { "name": "Аторис",          "active": "Аторвастатин",    "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Тулип",           "active": "Аторвастатин",    "form": "таблетки",    "manufacturer": "Zentiva" },
+
+  { "name": "Но-шпа",          "active": "Дротаверин",      "form": "таблетки",    "manufacturer": "Sanofi" },
+  { "name": "Дротаверин",      "active": "Дротаверин",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Спазмол",         "active": "Дротаверин",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Беспа",           "active": "Дротаверин",      "form": "таблетки",    "manufacturer": "Различные" },
+
+  { "name": "Валидол",         "active": "Ментол",          "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Корвалол",        "active": "Фенобарбитал+Этилбромизовалерианат", "form": "капли", "manufacturer": "Различные" },
+  { "name": "Валокордин",      "active": "Фенобарбитал+Этилбромизовалерианат", "form": "капли", "manufacturer": "Krewel Meuselbach" },
+
+  { "name": "Диклофенак",      "active": "Диклофенак",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Вольтарен",       "active": "Диклофенак",      "form": "таблетки",    "manufacturer": "Novartis" },
+  { "name": "Ортофен",         "active": "Диклофенак",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Диклак",          "active": "Диклофенак",      "form": "гель",        "manufacturer": "Hexal" },
+  { "name": "Диклоген",        "active": "Диклофенак",      "form": "таблетки",    "manufacturer": "Различные" },
+
+  { "name": "Кетопрофен",      "active": "Кетопрофен",      "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Кетонал",         "active": "Кетопрофен",      "form": "капсулы",     "manufacturer": "Sandoz" },
+  { "name": "Фастум гель",     "active": "Кетопрофен",      "form": "гель",        "manufacturer": "Menarini" },
+  { "name": "Артрозилен",      "active": "Кетопрофен",      "form": "капсулы",     "manufacturer": "IBSA" },
+
+  { "name": "Мелоксикам",      "active": "Мелоксикам",      "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Мовалис",         "active": "Мелоксикам",      "form": "таблетки",    "manufacturer": "Boehringer" },
+  { "name": "Артрозан",        "active": "Мелоксикам",      "form": "таблетки",    "manufacturer": "Мир-Фарм" },
+  { "name": "Амелотекс",       "active": "Мелоксикам",      "form": "таблетки",    "manufacturer": "Сотекс" },
+
+  { "name": "Флуконазол",      "active": "Флуконазол",      "form": "капсулы",     "manufacturer": "Различные" },
+  { "name": "Дифлюкан",        "active": "Флуконазол",      "form": "капсулы",     "manufacturer": "Pfizer" },
+  { "name": "Микосист",        "active": "Флуконазол",      "form": "капсулы",     "manufacturer": "Gedeon Richter" },
+  { "name": "Флюкостат",       "active": "Флуконазол",      "form": "капсулы",     "manufacturer": "Полфарма" },
+
+  { "name": "Сертралин",       "active": "Сертралин",       "form": "таблетки",    "manufacturer": "Различные" },
+  { "name": "Золофт",          "active": "Сертралин",       "form": "таблетки",    "manufacturer": "Pfizer" },
+  { "name": "Асентра",         "active": "Сертралин",       "form": "таблетки",    "manufacturer": "KRKA" },
+  { "name": "Торин",           "active": "Сертралин",       "form": "таблетки",    "manufacturer": "Различные" }
+]
